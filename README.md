@@ -7,7 +7,7 @@ Gobible is a library for interacting with the Bible in Go.
 Initially, Gobible was created as an effort to support an easy to use JSON format for the Bible for use in other projects,
 but through development has grown to instead be a library for working with that format, as well and importing other formats into the Gobible format.
 ### Supported Formats
-- Gobible JSON [Example](https://raw.githubusercontent.com/gobible/gobible/master/data/WEB.json)
+- Gobible JSON [Example](https://raw.githubusercontent.com/gobible/gobible/master/data/KJV.json)
 - OSIS XML [Example](https://raw.githubusercontent.com/gobible/gobible/master/data/WEB.xml)
 
 
