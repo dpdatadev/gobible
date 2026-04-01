@@ -1,4 +1,4 @@
-package gobible
+package main
 
 import (
 	_ "embed"

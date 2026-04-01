@@ -1,3 +1,9 @@
+# dpdigital
+# 1.1.2
+- Adding server for parsing and delivery, using project as application.
+
+
+# original solafide authors:
 # 1.1.1
 - Added additional meta data to bible objects
 # 1.1.0
