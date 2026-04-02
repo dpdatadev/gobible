@@ -88,7 +88,7 @@ for _, r := range refs {
 // Genesis 2:1 The heavens and the earth were finished, and all the host of them.
 ```
 
-## Create HTTP Handlers to Embed Bible functionality into your web services or apps
+### Create HTTP Handlers to Embed Bible functionality into your web services or apps
 ```go
 //server.go
 func VerseServeHTTP(w http.ResponseWriter, r *http.Request) {
@@ -124,7 +124,7 @@ func VerseServeHTTP(w http.ResponseWriter, r *http.Request) {
 	WriteHttpJson(verseList, w)
 }
 ```
-# Now Query:
+### Now Query:
 ```sh
 curl http://127.0.0.1:7777/verse?ref=Genesis%201:1-3
 ```
